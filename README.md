@@ -37,7 +37,7 @@ Supports **Minecraft 1.21 – 1.21.11** (Paper & Spigot).
 | `/balance`  | Shows your Balance              | ghostybank.balance |
 | `/top`      | Shows the bank leaderboard      | ghostybank.top     |
 | `/pay`      | Opens the GUI to transfer Money | ghostybank.pay     |
-| `/gadmin`   | Admin commands for GhostyBank. (info / addmoney / removemoney / setlevel)|ghostybank.admin |
+| `/gadmin`   | Admin commands for GhostyBank. (info / addmoney / removemoney / setlevel / reset / delete)|ghostybank.admin |
 | `/greload`  | Reloads GhostyBank config & lang files | ghostybank.admin |
 
 ---
